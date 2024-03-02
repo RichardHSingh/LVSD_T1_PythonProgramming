@@ -1,4 +1,4 @@
-# Level 6 Software Development Term 1 Week 1 PythonProgramming
+# Level 6 Software Development Term 1 Week 1 Python Programming
 
 Basic Python programs [Feb 5th - March 5th] Term 1  2024
 
